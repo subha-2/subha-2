@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Attendance Management System**
 
-- 🌱 I’m currently learning **JavaScript , React Native**
+- 🌱 I’m currently learning **JavaScript , ReactJs**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **ReactJs**
 
-- 💬 Ask me about **C++ , Front-End Development**
+- 💬 Ask me about **C++ , MERN Stack Development**
 
 - 📫 How to reach me **get2subhadeep@gmail.com**
 
