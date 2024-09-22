@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++ , Front-End Development**
 
-- 📫 How to reach me **02sairam06@gmail.com**
+- 📫 How to reach me **get2subhadeep@gmail.com**
 
 - ⚡ Fun fact **CODE-EAT-SLEEP-REPEAT**
 
